@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 1st Post
 ---
 
 What did you do this past week?
