@@ -9,7 +9,7 @@ This past week I have spent most of time getting used to the services provided b
 What’s in your way?
 The two things in my way right now is my inability to use github properly and having two classes that demand all of my time. I’ll need to plan out how to handle finishing this 2 projects and a test for next week if I intend on surviving the summer. I also still don’t have Extreme Programming, thanks Amazon, so quiz questions that cover information from the book are a worry of mine. 
 
-What will you do next week?
+What will I do next week?
 For next week I plan on starting early for the second project, studying for my test on Friday, and reading the chapters that I’ve missed from extreme programming. 
 
 Tip-of-the-week
