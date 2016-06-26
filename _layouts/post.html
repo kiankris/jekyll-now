@@ -7,11 +7,12 @@ layout: default
 
   <div class="entry">
     {{ content }}
+     <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
   </div>
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
+  
   {% include disqus.html %}
 </article>
